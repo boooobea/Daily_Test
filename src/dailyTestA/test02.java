@@ -22,6 +22,6 @@ public class test02 {
 		} else {
 			System.out.println("E");
 		}//if-else
-		
+		   
 	}//main
 }//end class
