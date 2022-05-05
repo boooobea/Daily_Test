@@ -20,6 +20,6 @@ public class test03 {
 		} else {
 			System.out.println(0);
 		}
-		
+		 
 	}//main
 }//end class
