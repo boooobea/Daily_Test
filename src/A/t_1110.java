@@ -1,5 +1,6 @@
 package A;
 
+//반복문 1110 더하기싸이클
 import java.util.Scanner;
 
 public class t_1110 {
