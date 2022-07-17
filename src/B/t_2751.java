@@ -25,5 +25,7 @@ public class t_2751 {
 			System.out.println(a);
 		}
 		
+		System.out.println(Arrays.toString(arr));
+		
 	}//main
 }//end class
